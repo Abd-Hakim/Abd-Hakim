@@ -8,6 +8,8 @@ PROJECT NAME: PERSONAL NOTE STORAGE
 
 
 1.0 INTRODCUTION
+
+
   Personal note storage is build to help students, teachers, lectures and workers to safe their note personally. This system gives users freedom and privacy on what notes that stored in this system. This system is using cloud stoage.
   
   
